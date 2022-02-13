@@ -10,7 +10,6 @@ const App = () => {
   const [toggleColorFlag, setToggleColorFlag] = useState(false)
 
 /* ------ALAN AI INTEGRATION------ */
-  //changes updates
 
 useEffect(() => {
   alanBtn({
